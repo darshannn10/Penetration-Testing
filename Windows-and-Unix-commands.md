@@ -34,25 +34,20 @@ To get help on a Windows command, use the `/?` option, for example `date /?`.
 
 | `copy` |  [`cp][13]` |   |
 
-| `date
-
-time` |  [`date][14]` |  `Date` on Unix prints the current date and time. `Date` and `time` on Windows print the date and time respectively, and prompt for a new 
+| `datetime` |  [`date][14]` |  `Date` on Unix prints the current date and time. `Date` and `time` on Windows print the date and time respectively, and prompt for a new 
 date or time. |
 
 | `del` |  [`rm][15]` |   |
-
-
+\
 | `deltree` |  [`rm][15] -r` |  Recursively deletes entire directory tree |
 
 | `dir` |  [`ls][16]` |  "dir" also works on some versions of Unix. |
 
-| `doskey /h
-F7 key` |  [`history][17]` |  The Unix `history` is part of the Bash shell. |
-| `edit` |  `vi
-emacs
-etc.` |  `edit` brings up a simple text editor in Windows. On Unix, the environment variable `EDITOR` should be set to the user's preferred editor. |
-| `exit` |  `[exit][18]
-Control-D` |  On Unix, pressing the control key and D simultaneously logs the user out of the shell. |
+| `doskey /h F7 key` |  [`history][17]` |  The Unix `history` is part of the Bash shell. |
+| `edit` |  `viemacsetc.` |`edit` brings up a simple text editor in Windows. On Unix, the environment variable `EDITOR` should be set to the user's preferred editor. |
+
+| `exit` |  `[exit][18] Control-D` |  On Unix, pressing the control key and D simultaneously logs the user out of the shell. |
+
 | `explorer` |  `nautilusetc.` |  The command `explorer` brings up the file browser on Windows. |
 
 | `fc` |  `[diff][19]` |   |
