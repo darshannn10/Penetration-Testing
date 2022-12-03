@@ -9,10 +9,15 @@ To get help on a Windows command, use the `/?` option, for example `date /?`.
 
 | ----- |
 | Windows command |  Unix command |  Notes |
+
 | `arp` |  [`arp][1]` |   |
+
 | `assign` |  [`ln][2]` |  Create a file link |
+
 | `assign` |  [`ln][2] -s` |  On Unix, a directory may not have multiple links, so instead a symbolic link must be created with `ln -s`. |
+
 | `assoc` |  [`file][3]` |   |
+
 | `at` |  [`at][4]
 [batch][5]
 [cron][6]` |   |
