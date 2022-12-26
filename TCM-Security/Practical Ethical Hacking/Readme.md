@@ -21,8 +21,8 @@ Topics:
 * 7. Active Directory
 * 8. Post-Compromise Enumeration
 * 9. Post-Compromise Attacks
-* A10. Post Exploitation
-* A11. Web Application Enumeration, Revisited
-* A12. Top Ten Web Application Vulnerabilities
-* A13. Wireless Penetration Test
-* A14. Legal Documents and Report
+* 10. Post Exploitation
+* 11. Web Application Enumeration, Revisited
+* 12. Top Ten Web Application Vulnerabilities
+* 13. Wireless Penetration Test
+* 14. Legal Documents and Report
