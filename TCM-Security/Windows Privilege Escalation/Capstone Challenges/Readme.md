@@ -1,4 +1,4 @@
-# Capstone Challenge
+# Capstone Challenges
 
 1. [Arctic](#arctic)
 2. [Bastard](#bastard)
