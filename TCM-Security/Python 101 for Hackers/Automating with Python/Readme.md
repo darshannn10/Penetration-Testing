@@ -1,1 +1,5 @@
-python projects
+1. [Project 1 - SSH login brute forcing](1.%20SSH%20login%20brute%20forcing/ssh-bruteforce.py)
+2. [Project 2 - SHA256 password cracking](sha256-cracking.py)
+3. [Project 3 - Web login form brute forcing](weblogin-bruteforce.py)
+4. [Project 4 - Exploiting a SQL injection](sql-injection.py)
+5. [Project 5 - Exploiting a restricted SQL injection](restricted-sql-injection.py)
