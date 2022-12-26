@@ -2,7 +2,7 @@
 
 Notes for the TCM Security course [Linux Privilege Escalation for Beginners](https://academy.tcm-sec.com/p/linux-privilege-escalation):
 
-1. [Initial Enumeration and Automated Tools](Initial Enumeration/Readme.md)
+1. [Initial Enumeration and Automated Tools](Initial%20Enumeration/Readme.md)
 2. [Escalation Paths](EscalationPaths/README.md)
 3. [Capstone Challenge](Capstone/README.md)
 
