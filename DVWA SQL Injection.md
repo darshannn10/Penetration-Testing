@@ -144,7 +144,6 @@ We will print all the columns present in the users’ table. This information wi
 ![Column-fields](https://user-images.githubusercontent.com/87711310/215313624-3b439ca3-32d4-4db8-9982-ff0388e16680.png)
 
 
-
 ### Step 10: Display Column field contents
 To display all the necessary authentication information present in the columns as stored in the information_schema, use the SQL syntax below:
 
