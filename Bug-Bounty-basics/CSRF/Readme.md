@@ -7,7 +7,7 @@ Cross Site Request Forgery is an attack where the attacker causes the victim use
 
 			Attacker                                 		Victim               			   Web Application
 									  				 
-	https://domain.com/email/change?email=attacker@gmail.com  --->		Cookie	   --->		  	https://domain.com/email/change?email=attacker@gmail.com  								    
+	https://domain.com/email/change?email=attacker@gmail.com  --->		Cookie	   --->		  	https://domain.com/email/change?email=attacker@gmail.com
 			            |___________________________________________________________________________________________|																		     
 
 ## End Points :
